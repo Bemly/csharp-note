@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="gb2312" standalone="yes"?>
+<!--哈哈 我也可以在这里-->
+<?xml-stylesheet href="stories.css", type="text/css"?>
+<地图>
+  <坐标>
+    <X>128</X>
+    <Y>-59</Y>
+  </坐标>
+  <坐标>
+    <X>-128</X>
+    <Y>59</Y>
+  </坐标>
+</地图>

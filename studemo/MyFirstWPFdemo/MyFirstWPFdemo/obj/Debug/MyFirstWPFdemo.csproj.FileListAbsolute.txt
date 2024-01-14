@@ -1,0 +1,15 @@
+Z:\Csharp\studemo\MyFirstWPFdemo\MyFirstWPFdemo\bin\Debug\MyFirstWPFdemo.exe.config
+Z:\Csharp\studemo\MyFirstWPFdemo\MyFirstWPFdemo\bin\Debug\MyFirstWPFdemo.exe
+Z:\Csharp\studemo\MyFirstWPFdemo\MyFirstWPFdemo\bin\Debug\MyFirstWPFdemo.pdb
+Z:\Csharp\studemo\MyFirstWPFdemo\MyFirstWPFdemo\obj\Debug\MyFirstWPFdemo.csproj.AssemblyReference.cache
+Z:\Csharp\studemo\MyFirstWPFdemo\MyFirstWPFdemo\obj\Debug\MainWindow.g.cs
+Z:\Csharp\studemo\MyFirstWPFdemo\MyFirstWPFdemo\obj\Debug\App.g.cs
+Z:\Csharp\studemo\MyFirstWPFdemo\MyFirstWPFdemo\obj\Debug\MyFirstWPFdemo_MarkupCompile.cache
+Z:\Csharp\studemo\MyFirstWPFdemo\MyFirstWPFdemo\obj\Debug\MyFirstWPFdemo_MarkupCompile.lref
+Z:\Csharp\studemo\MyFirstWPFdemo\MyFirstWPFdemo\obj\Debug\MainWindow.baml
+Z:\Csharp\studemo\MyFirstWPFdemo\MyFirstWPFdemo\obj\Debug\MyFirstWPFdemo.g.resources
+Z:\Csharp\studemo\MyFirstWPFdemo\MyFirstWPFdemo\obj\Debug\MyFirstWPFdemo.Properties.Resources.resources
+Z:\Csharp\studemo\MyFirstWPFdemo\MyFirstWPFdemo\obj\Debug\MyFirstWPFdemo.csproj.GenerateResource.cache
+Z:\Csharp\studemo\MyFirstWPFdemo\MyFirstWPFdemo\obj\Debug\MyFirstWPFdemo.csproj.CoreCompileInputs.cache
+Z:\Csharp\studemo\MyFirstWPFdemo\MyFirstWPFdemo\obj\Debug\MyFirstWPFdemo.exe
+Z:\Csharp\studemo\MyFirstWPFdemo\MyFirstWPFdemo\obj\Debug\MyFirstWPFdemo.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "studemo", "studemo.csproj", "{46A329CD-2864-4BD3-BD3D-9DF260C30D61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWPFdemo", "..\MyFirstWPFdemo\MyFirstWPFdemo\MyFirstWPFdemo.csproj", "{41265B0B-C081-4B7F-B93A-16ABCBDA9EF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "studemoClassLibrary", "..\studemoClassLibrary\studemoClassLibrary\studemoClassLibrary.csproj", "{E473CF32-8214-47DA-94E8-DB52D1F2248A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46A329CD-2864-4BD3-BD3D-9DF260C30D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A329CD-2864-4BD3-BD3D-9DF260C30D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A329CD-2864-4BD3-BD3D-9DF260C30D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A329CD-2864-4BD3-BD3D-9DF260C30D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41265B0B-C081-4B7F-B93A-16ABCBDA9EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41265B0B-C081-4B7F-B93A-16ABCBDA9EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41265B0B-C081-4B7F-B93A-16ABCBDA9EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41265B0B-C081-4B7F-B93A-16ABCBDA9EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E473CF32-8214-47DA-94E8-DB52D1F2248A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E473CF32-8214-47DA-94E8-DB52D1F2248A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E473CF32-8214-47DA-94E8-DB52D1F2248A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E473CF32-8214-47DA-94E8-DB52D1F2248A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

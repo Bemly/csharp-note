@@ -1,0 +1,13 @@
+E:\Csharp\studemo\studemo\bin\Debug\studemo.exe
+E:\Csharp\studemo\studemo\bin\Debug\studemo.pdb
+E:\Csharp\studemo\studemo\obj\Debug\studemo.csproj.AssemblyReference.cache
+E:\Csharp\studemo\studemo\obj\Debug\studemo.csproj.SuggestedBindingRedirects.cache
+E:\Csharp\studemo\studemo\obj\Debug\studemo.csproj.CoreCompileInputs.cache
+E:\Csharp\studemo\studemo\obj\Debug\studemo.exe
+E:\Csharp\studemo\studemo\obj\Debug\studemo.pdb
+Z:\Csharp\studemo\studemo\bin\Debug\studemo.exe
+Z:\Csharp\studemo\studemo\bin\Debug\studemo.pdb
+Z:\Csharp\studemo\studemo\obj\Debug\studemo.csproj.AssemblyReference.cache
+Z:\Csharp\studemo\studemo\obj\Debug\studemo.csproj.CoreCompileInputs.cache
+Z:\Csharp\studemo\studemo\obj\Debug\studemo.exe
+Z:\Csharp\studemo\studemo\obj\Debug\studemo.pdb
